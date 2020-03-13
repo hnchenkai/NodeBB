@@ -135,7 +135,7 @@
         "@commitlint/config-angular": "8.3.4",
         "coveralls": "3.0.9",
         "eslint": "6.8.0",
-        "eslint-config-airbnb-base": "14.0.0",
+        "eslint-config-airbnb-base": "14.1.0",
         "eslint-plugin-import": "2.20.1",
         "grunt": "1.0.4",
         "grunt-contrib-watch": "1.1.0",
